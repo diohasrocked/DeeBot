@@ -61,7 +61,7 @@ cd <bot_folder_name_here>
 ```
 Create and activate a virtual environment:
 ```bash
-python -m venv venv
+python -m venv venv // py -3 -m venv venv
 # and then...
 venv\Scripts\activate # Windows CMD Prompt / PowerShell
 source venv/bin/activate # Mac OS / Linux
